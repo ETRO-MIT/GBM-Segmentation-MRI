@@ -26,4 +26,4 @@ The trained models covering all modality configurations and both network archite
 
 If you use this repository, please cite:
 
-*De Sutter, S., Wuts, J., Geens, W. et al. Modality redundancy for MRI-based glioblastoma segmentation. Int J Comput Assist Radiol Surg. 19 (10): 2101-2109 (2024). https://doi.org/10.1007/s11548-024-03238-4* 
+> *De Sutter, S., Wuts, J., Geens, W. et al. Modality redundancy for MRI-based glioblastoma segmentation. Int J Comput Assist Radiol Surg. 19 (10): 2101-2109 (2024). https://doi.org/10.1007/s11548-024-03238-4* 
